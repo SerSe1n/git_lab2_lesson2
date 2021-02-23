@@ -1,1 +1,13 @@
 Они ничем не отличаются
+Вижу 11 коммитов
+1. New commit
+2. Merge branch 'boots_buttons'
+3. Merge remote-tracking branch 'origin/hat'
+4. Merge branch 'buttons' into boots_buttons
+5. Merge branch 'boots' into boots_buttons
+6. fix readme
+7. dots
+8. README added
+9. boots
+10. heat added
+11. init
